@@ -61,6 +61,9 @@ The design philosophy focuses on minimalism, good typography, and clear calls-to
 * **Custom Utilities:** Custom CSS is included in the `<style>` block to manage scrollbar hiding (`no-scrollbar`) and create smooth transitions between views (`fade-in`, `slide-in-right`).
 * **Sticky Elements:** The main navigation bar and the product filter bar are sticky for easy access while scrolling.
 
+## The Live link
+https://mildsam.github.io/E-commerce_demo/
+
 ## 🤝 Contribution
 
 Feel free to fork this project, experiment with new features, or suggest improvements to the UI/UX or JavaScript logic!
